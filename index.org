@@ -7,13 +7,5 @@
 #+options: toc:nil num:nil
 
 
-* Primera seccion
-aqui voy a escribir aLGO
-
-
-
-
-
-* Bibliography
-
+texto con tildes así o con ñ
 
