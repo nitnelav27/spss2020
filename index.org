@@ -6,11 +6,12 @@
 
 #+options: toc:nil num:nil
 
-* ¡Bienvenidos al sitio del curso!
+* Bienvenidos al sitio del curso!
 wdfkovwernjjklfgvnerwqklfgkr3qnefgr
 gfkoerqmgfvkolrewmgolvmrelqkigvr
 jkodwenfvgjoeqrnmgvkolmnreqkjgfv
 niodwefqnfgvoqremnofvmrneqklgmrelkmgfvklemrvfg
+
 
 
 
