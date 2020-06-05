@@ -48,7 +48,7 @@ Desde este punto empezamos a usar herramientas estadísticas para *tomar decisio
 ** Semana 4: Inferencia con dos variables: parte 2
 Retomamos la inferencia, ahopra extendiendo el modelo para incluir distintos casos, donde siguen existiendo dos variables: dependiente e independiente o dos variables cuya relación buscamos establecer. Los contenidos:
 
-- Comparar $k$ grupos
+- Comparar k grupos
 - Tablas de contingencia
 - Correlación
 
@@ -57,7 +57,7 @@ Este es el modelo más usado, dada su flexibilidad: admite variables de cualquie
 
 - Modelo de regresión lineal
 - Estimación OLS
-- Modelo de regresión con $k$ variables independientes
+- Modelo de regresión con k variables independientes
 - Estimación OLS matricial
 
 * Bibliography
