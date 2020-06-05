@@ -1,4 +1,4 @@
-#+TITLE: Uso (básico) de SPSS
+#+TITLE: Uso (basico) de SPSS
 #+author: Valentin Vergara Hidd
 #+date: Junio, 2020
 
