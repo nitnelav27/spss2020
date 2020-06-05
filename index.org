@@ -7,15 +7,10 @@
 #+options: toc:nil num:nil
 
 * ¡Bienvenidos al sitio del curso!
-En este sitio encontrarán todo el material que vamos a utilizar a lo largo de estas semanas. No va a estar todo de inmediato, sino que lo iré actualizando semana a semana, en la medida en que lo vaya escribiendo.
-
-En principio, la idea es que a partir de uno o dos videos donde hago algunas demostraciones de uso del software o explicación de conceptos estadísticos, ustedes puedan ir practicando. Para esto, los recursos que tendrán a disposición son:
-
-- El video con lo descrito anteriormente.
-- Un documento que explica con más profundidad los /conceptos estadisticos/. Para la demostración de software lo más adecuado sigue siendo el video.
-- Los archivos de datos que use en las demostraciones.
-
-Ante cualquier duda o comentario, [[mailto:valentinvergara@gmail.com][escríbanme]] de inmediato, para intentar solucionarlo a tiempo. Especialmente con los conceptos estadísticos, hay muchas cosas que se construyen sobre la base de conceptos más básicos, por lo que es fundamental extinguir las dudas apenas aparezcan. En caso de ser necesario, podemos organizar alguna sesión de videollamada donde les vaya explicando alguna cosa que no haya quedado del todo claro en los videos o documentos.
+wdfkovwernjjklfgvnerwqklfgkr3qnefgr
+gfkoerqmgfvkolrewmgolvmrelqkigvr
+jkodwenfvgjoeqrnmgvkolmnreqkjgfv
+niodwefqnfgvoqremnofvmrneqklgmrelkmgfvklemrvfg
 
 
 
