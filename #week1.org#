@@ -1,0 +1,17 @@
+#+title: week 1
+#+author: Valentin Vergara
+#+date: 2020:Jun:04
+
+* This is the content for week1
+What about more code?
+
+#+BEGIN_SRC C
+printf('Hello World');
+#+END_SRC
+
+* Let's put a video here
+
+#+begin_export html 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C8NKtu5SZZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
