@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-06-04 Thu 23:43 -->
+<!-- 2020-06-04 Thu 23:37 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>week 1</title>
@@ -234,14 +234,14 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orga5fe67f">1. This is the content for week1</a></li>
-<li><a href="#orga4502a6">2. Let's put a video here</a></li>
+<li><a href="#orge6c2f72">1. This is the content for week1</a></li>
+<li><a href="#orgfa9565d">2. Let's put a video here</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orga5fe67f" class="outline-2">
-<h2 id="orga5fe67f"><span class="section-number-2">1</span> This is the content for week1</h2>
+<div id="outline-container-orge6c2f72" class="outline-2">
+<h2 id="orge6c2f72"><span class="section-number-2">1</span> This is the content for week1</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 What about more code?
@@ -254,17 +254,20 @@ What about more code?
 </div>
 </div>
 
-<div id="outline-container-orga4502a6" class="outline-2">
-<h2 id="orga4502a6"><span class="section-number-2">2</span> Let's put a video here</h2>
+<div id="outline-container-orgfa9565d" class="outline-2">
+<h2 id="orgfa9565d"><span class="section-number-2">2</span> Let's put a video here</h2>
 <div class="outline-text-2" id="text-2">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C8NKtu5SZZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="org-src-container">
+<pre class="src src-html">&lt;<span style="color: #82aaff;">iframe</span> <span style="color: #ffcb6b;">width</span>=<span style="color: #c3e88d;">"560"</span> <span style="color: #ffcb6b;">height</span>=<span style="color: #c3e88d;">"315"</span> <span style="color: #ffcb6b;">src</span>=<span style="color: #c3e88d;">"https://www.youtube.com/embed/C8NKtu5SZZM"</span> <span style="color: #ffcb6b;">frameborder</span>=<span style="color: #c3e88d;">"0"</span> <span style="color: #ffcb6b;">allow</span>=<span style="color: #c3e88d;">"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"</span> allowfullscreen&gt;&lt;/<span style="color: #82aaff;">iframe</span>&gt;
+</pre>
+</div>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="date">Date: 2020:Jun:04</p>
 <p class="author">Author: Valentin Vergara</p>
-<p class="date">Created: 2020-06-04 Thu 23:43</p>
+<p class="date">Created: 2020-06-04 Thu 23:37</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
