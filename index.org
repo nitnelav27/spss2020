@@ -15,58 +15,7 @@ niodwefqnfgvoqremnofvmrneqklgmrelkmgfvklemrvfg
 enfjewnfjen2wjfnwejnfjwenfjwenjfknwekjnfkwelnfjkewnfmkwqd fckmeqwfgb hwerbgfhw
 
 
-En este sitio encontrarán todo el material que vamos a utilizar a lo largo de estas semanas. No va a estar todo de inmediato, sino que lo iré actualizando semana a semana, en la medida en que lo vaya escribiendo.
 
-En principio, la idea es que a partir de uno o dos videos donde hago algunas demostraciones de uso del software o explicación de conceptos estadísticos, ustedes puedan ir practicando. Para esto, los recursos que tendrán a disposición son:
-
-- El video con lo descrito anteriormente.
-- Un documento que explica con más profundidad los /conceptos estadisticos/. Para la demostración de software lo más adecuado sigue siendo el video.
-- Los archivos de datos que use en las demostraciones.
-
-Ante cualquier duda o comentario, [[mailto:valentinvergara@gmail.com][escríbanme]] de inmediato, para intentar solucionarlo a tiempo. Especialmente con los conceptos estadísticos, hay muchas cosas que se construyen sobre la base de conceptos más básicos, por lo que es fundamental extinguir las dudas apenas aparezcan. En caso de ser necesario, podemos organizar alguna sesión de videollamada donde les vaya explicando alguna cosa que no haya quedado del todo claro en los videos o documentos.
-
-* Contenidos
-
-Por un tema estrictamente práctico, voy a dividir los contenidos en semanas. Cada una con una dedicación estimada de 5 horas. Esto no implica que van a haber cinco horas de videos por cada semana. Entre los videos, el estudio del documento y practicar con el software, estimo que deberían usar más o menos esa cantidad de tiempo.
-
-** [[file:week1.html][Semana 1]]: Presentación y manejo de información 
-En la primera parte, les voy a presentar los contenidos y la forma en que vamos a trabajar durante estas semanas. También les voy a presentar el software y la manera en que su interfaz gráfica funciona. En cuanto al manejo de información, lo que vamos a ver en detalle es:
-
-- Matrices de datos
-- Importar y exportar datos entre diferentes formatos
-- Manejo de valores perdidos
-- Recodificación de datos
-- Obtener resúmenes a partir de un conjunto de datos
-- Descripción y visualización
-
-** Semana 2: Muestreo 
-En términos generales, este tema pertenece más a un curso de metodología de investigación que a uno de SPSS. Sin embargo, es un tema útil para presentar el concepto de distribución estadística, que es central para todo lo que sigue. Los temas en detalle:
-
-- Diseños muestrales
-- Cálculo de tamaños muestrales
-- Distribuciones estadísticas
-- Error Estándar
-
-** Semana 3: Inferencia con dos variables, parte 1
-Desde este punto empezamos a usar herramientas estadísticas para *tomar decisiones*, por lo que se vuelve especialmente importante la rigurosidad en los conceptos y su correcta aplicación. Antes de ver cualquier /técnica estadística/, hay que tener una base sólida en el procedimiento de la prueba de hipótesis. Los contenidos en detalle:
-
-- Prueba de hipótesis
-- Comparar dos grupos
-
-** Semana 4: Inferencia con dos variables: parte 2
-Retomamos la inferencia, ahopra extendiendo el modelo para incluir distintos casos, donde siguen existiendo dos variables: dependiente e independiente o dos variables cuya relación buscamos establecer. Los contenidos:
-
-- Comparar k grupos
-- Tablas de contingencia
-- Correlación
-
-** Semana 5: Modelo lineal
-Este es el modelo más usado, dada su flexibilidad: admite variables de cualquier tipo. Es utilizado para inferencia causal, para experimentos, para modelos predictivos, series de tiempo, etc. Dedicaré más tiempo a este modelo considerando que requiere mayor atención a las herramientas matemáticas y computacionales necesarias para su correcta implementación. Los contenidos en detalle:
-
-- Modelo de regresión lineal
-- Estimación OLS
-- Modelo de regresión con k variables independientes
-- Estimación OLS matricial
 
 
 
