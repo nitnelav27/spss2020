@@ -1,19 +1,14 @@
 #+TITLE: Uso (basico) de SPSS
 #+author: Valentin Vergara Hidd
-
+#+date: 2020:june:06
 
 #+language: es
 
 #+options: toc:nil num:nil
 
-* Bienvenidos al sitio del curso
-wdfkovwernjjklfgvnerwqklfgkr3qnefgr
-gfkoerqmgfvkolrewmgolvmrelqkigvr
-jkodwenfvgjoeqrnmgvkolmnreqkjgfv
-niodwefqnfgvoqremnofvmrneqklgmrelkmgfvklemrvfg
 
-enfjewnfjen2wjfnwejnfjwenfjwenjfknwekjnfkwelnfjkewnfmkwqd fckmeqwfgb hwerbgfhw
-
+* Primera seccion
+aqui voy a escribir aLGO
 
 
 
