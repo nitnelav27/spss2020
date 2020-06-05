@@ -1,0 +1,15 @@
+#+TITLE: Welcome
+#+author: Valentin Vergara Hidd
+#+date: Junio, 2020
+
+#+language: es
+
+* This is the first section
+I will put some text here
+
+* Second section
+And here, some code
+
+#+BEGIN_SRC python
+print("Hello world")
+#+END_SRC
