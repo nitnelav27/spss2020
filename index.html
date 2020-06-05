@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<!-- 2020-06-05 Fri 02:11 -->
+<!-- 2020-06-05 Fri 02:28 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Uso (basico) de SPSS</title>
+<title>Uso (básico) de SPSS</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Valentin Vergara Hidd" />
 <style type="text/css">
@@ -226,18 +226,152 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
-<h1 class="title">Uso (basico) de SPSS</h1>
+<h1 class="title">Uso (básico) de SPSS</h1>
+
+<div id="outline-container-orgaf5e83e" class="outline-2">
+<h2 id="orgaf5e83e">¡Bienvenidos al sitio del curso!</h2>
+<div class="outline-text-2" id="text-orgaf5e83e">
 <p>
-texto con tildes así o con ñ
+En este sitio encontrarán todo el material que vamos a utilizar a lo largo de estas semanas. No va a estar todo de inmediato, sino que lo iré actualizando semana a semana, en la medida en que lo vaya escribiendo.
+</p>
+
+<p>
+En principio, la idea es que a partir de uno o dos videos donde hago algunas demostraciones de uso del software o explicación de conceptos estadísticos, ustedes puedan ir practicando. Para esto, los recursos que tendrán a disposición son:
+</p>
+
+<ul class="org-ul">
+<li>El video con lo descrito anteriormente.</li>
+<li>Un documento que explica con más profundidad los <i>conceptos estadisticos</i>. Para la demostración de software lo más adecuado sigue siendo el video.</li>
+<li>Los archivos de datos que use en las demostraciones.</li>
+</ul>
+
+<p>
+Ante cualquier duda o comentario, <a href="mailto:valentinvergara@gmail.com">escríbanme</a> de inmediato, para intentar solucionarlo a tiempo. Especialmente con los conceptos estadísticos, hay muchas cosas que se construyen sobre la base de conceptos más básicos, por lo que es fundamental extinguir las dudas apenas aparezcan. En caso de ser necesario, podemos organizar alguna sesión de videollamada donde les vaya explicando alguna cosa que no haya quedado del todo claro en los videos o documentos.
 </p>
 </div>
+</div>
+
+<div id="outline-container-orga4e3ffa" class="outline-2">
+<h2 id="orga4e3ffa">Contenidos</h2>
+<div class="outline-text-2" id="text-orga4e3ffa">
+<p>
+Por un tema estrictamente práctico, voy a dividir los contenidos en semanas. Cada una con una dedicación estimada de 5 horas. Esto no implica que van a haber cinco horas de videos por cada semana. Entre los videos, el estudio del documento y practicar con el software, estimo que deberían usar más o menos esa cantidad de tiempo.
+</p>
+</div>
+
+<div id="outline-container-org1045a16" class="outline-3">
+<h3 id="org1045a16"><a href="week1.html">Semana 1</a>: Presentación y manejo de información</h3>
+<div class="outline-text-3" id="text-org1045a16">
+<p>
+En la primera parte, les voy a presentar los contenidos y la forma en que vamos a trabajar durante estas semanas. También les voy a presentar el software y la manera en que su interfaz gráfica funciona. En cuanto al manejo de información, lo que vamos a ver en detalle es:
+</p>
+
+<ul class="org-ul">
+<li>Matrices de datos</li>
+<li>Importar y exportar datos entre diferentes formatos</li>
+<li>Manejo de valores perdidos</li>
+<li>Recodificación de datos</li>
+<li>Obtener resúmenes a partir de un conjunto de datos</li>
+<li>Descripción y visualización</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org550b7c7" class="outline-3">
+<h3 id="org550b7c7">Semana 2: Muestreo</h3>
+<div class="outline-text-3" id="text-org550b7c7">
+<p>
+En términos generales, este tema pertenece más a un curso de metodología de investigación que a uno de SPSS. Sin embargo, es un tema útil para presentar el concepto de distribución estadística, que es central para todo lo que sigue. Los temas en detalle:
+</p>
+
+<ul class="org-ul">
+<li>Diseños muestrales</li>
+<li>Cálculo de tamaños muestrales</li>
+<li>Distribuciones estadísticas</li>
+<li>Error Estándar</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgab44659" class="outline-3">
+<h3 id="orgab44659">Semana 3: Inferencia con dos variables, parte 1</h3>
+<div class="outline-text-3" id="text-orgab44659">
+<p>
+Desde este punto empezamos a usar herramientas estadísticas para <b>tomar decisiones</b>, por lo que se vuelve especialmente importante la rigurosidad en los conceptos y su correcta aplicación. Antes de ver cualquier <i>técnica estadística</i>, hay que tener una base sólida en el procedimiento de la prueba de hipótesis. Los contenidos en detalle:
+</p>
+
+<ul class="org-ul">
+<li>Prueba de hipótesis</li>
+<li>Comparar dos grupos</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgfe85bbb" class="outline-3">
+<h3 id="orgfe85bbb">Semana 4: Inferencia con dos variables: parte 2</h3>
+<div class="outline-text-3" id="text-orgfe85bbb">
+<p>
+Retomamos la inferencia, ahopra extendiendo el modelo para incluir distintos casos, donde siguen existiendo dos variables: dependiente e independiente o dos variables cuya relación buscamos establecer. Los contenidos:
+</p>
+
+<ul class="org-ul">
+<li>Comparar \(k\) grupos</li>
+<li>Tablas de contingencia</li>
+<li>Correlación</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org789e0eb" class="outline-3">
+<h3 id="org789e0eb">Semana 5: Modelo lineal</h3>
+<div class="outline-text-3" id="text-org789e0eb">
+<p>
+Este es el modelo más usado, dada su flexibilidad: admite variables de cualquier tipo. Es utilizado para inferencia causal, para experimentos, para modelos predictivos, series de tiempo, etc. Dedicaré más tiempo a este modelo considerando que requiere mayor atención a las herramientas matemáticas y computacionales necesarias para su correcta implementación. Los contenidos en detalle:
+</p>
+
+<ul class="org-ul">
+<li>Modelo de regresión lineal</li>
+<li>Estimación OLS</li>
+<li>Modelo de regresión con \(k\) variables independientes</li>
+<li>Estimación OLS matricial</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5618faf" class="outline-2">
+<h2 id="org5618faf">Bibliography</h2>
+</div>
+</div>
 <div id="postamble" class="status">
-<p class="date">Fecha: 2020:june:06</p>
+<p class="date">Fecha: Junio, 2020</p>
 <p class="author">Autor: Valentin Vergara Hidd</p>
-<p class="date">Created: 2020-06-05 Fri 02:11</p>
+<p class="date">Created: 2020-06-05 Fri 02:28</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
