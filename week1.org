@@ -1,0 +1,10 @@
+#+title: week 1
+#+author: Valentin Vergara
+#+date: 2020:Jun:04
+
+* This is the content for week1
+What about more code?
+
+#+BEGIN_SRC C
+printf('Hello World');
+#+END_SRC

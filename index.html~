@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<!-- 2020-06-04 Thu 23:31 -->
+<!-- 2020-06-04 Thu 23:20 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Welcome</title>
@@ -234,15 +234,14 @@ for the JavaScript code in this tag.
 <h2>&Iacute;ndice</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgbe67c93">1. This is the first section</a></li>
-<li><a href="#org4377fe7">2. Second section</a></li>
-<li><a href="#orgc718f77">3. The third with a link</a></li>
+<li><a href="#orgafe45c3">1. This is the first section</a></li>
+<li><a href="#org18529ce">2. Second section</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgbe67c93" class="outline-2">
-<h2 id="orgbe67c93"><span class="section-number-2">1</span> This is the first section</h2>
+<div id="outline-container-orgafe45c3" class="outline-2">
+<h2 id="orgafe45c3"><span class="section-number-2">1</span> This is the first section</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 I will put some text here
@@ -250,8 +249,8 @@ I will put some text here
 </div>
 </div>
 
-<div id="outline-container-org4377fe7" class="outline-2">
-<h2 id="org4377fe7"><span class="section-number-2">2</span> Second section</h2>
+<div id="outline-container-org18529ce" class="outline-2">
+<h2 id="org18529ce"><span class="section-number-2">2</span> Second section</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 And here, some code
@@ -263,20 +262,11 @@ And here, some code
 </div>
 </div>
 </div>
-
-<div id="outline-container-orgc718f77" class="outline-2">
-<h2 id="orgc718f77"><span class="section-number-2">3</span> The third with a link</h2>
-<div class="outline-text-2" id="text-3">
-<p>
-We link <a href="week1.html">week1</a>
-</p>
-</div>
-</div>
 </div>
 <div id="postamble" class="status">
 <p class="date">Fecha: Junio, 2020</p>
 <p class="author">Autor: Valentin Vergara Hidd</p>
-<p class="date">Created: 2020-06-04 Thu 23:31</p>
+<p class="date">Created: 2020-06-04 Thu 23:20</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

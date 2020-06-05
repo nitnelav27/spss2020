@@ -13,7 +13,3 @@ And here, some code
 #+BEGIN_SRC python
 print("Hello world")
 #+END_SRC
-
-* The third with a link
-
-We link [[file:week1.html][week1]]
