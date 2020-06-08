@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<!-- 2020-06-07 Sun 22:15 -->
+<!-- 2020-06-08 Mon 00:52 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Semana 1</title>
@@ -231,21 +231,21 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">Semana 1</h1>
 
-<div id="outline-container-org55cf3b1" class="outline-2">
-<h2 id="org55cf3b1">Presentación</h2>
-<div class="outline-text-2" id="text-org55cf3b1">
+<div id="outline-container-orgdff1de0" class="outline-2">
+<h2 id="orgdff1de0">Presentación</h2>
+<div class="outline-text-2" id="text-orgdff1de0">
 <p>
 A modo de presentación del curso (y mia), les mostraré un video con generalidades del software y un documento con conceptos relevantes.
 </p>
 </div>
 
-<div id="outline-container-org0917874" class="outline-3">
-<h3 id="org0917874">Video de presentación</h3>
+<div id="outline-container-org32740aa" class="outline-3">
+<h3 id="org32740aa">Video de presentación</h3>
 </div>
 
-<div id="outline-container-org36dd9b1" class="outline-3">
-<h3 id="org36dd9b1"><a href="docs/week1-1.pdf">Conceptos Preliminares</a></h3>
-<div class="outline-text-3" id="text-org36dd9b1">
+<div id="outline-container-orgbd4994e" class="outline-3">
+<h3 id="orgbd4994e"><a href="docs/week1-1.pdf">Conceptos Preliminares</a></h3>
+<div class="outline-text-3" id="text-orgbd4994e">
 <p>
 En este documento presento los conceptos de <b>matriz de datos</b> y <b>modelos estadísticos</b>. Ambos son útiles, no por su novedad, sino que nos servirán para precisar los conceptos y que empecemos a hablar exactamente el mismo idioma.
 </p>
@@ -253,18 +253,129 @@ En este documento presento los conceptos de <b>matriz de datos</b> y <b>modelos 
 </div>
 </div>
 
-<div id="outline-container-org169b619" class="outline-2">
-<h2 id="org169b619">Manejo de información</h2>
-<div class="outline-text-2" id="text-org169b619">
+<div id="outline-container-orga16cfeb" class="outline-2">
+<h2 id="orga16cfeb">Manejo de información</h2>
+<div class="outline-text-2" id="text-orga16cfeb">
 <p>
 COMING SOON
 </p>
 </div>
 </div>
+<div id="outline-container-org06d966f" class="outline-2">
+<h2 id="org06d966f">Datos</h2>
+<div class="outline-text-2" id="text-org06d966f">
+<p>
+Hay muchas formas en las que usualmente se presentan los datos. Es por esto que escogí tres formatos con los que eventualmente se encontrarán. Idealmente, descárguenlos en alguna carpeta a la que tengan fácil acceso.
+</p>
+</div>
+
+<div id="outline-container-orgee618f5" class="outline-3">
+<h3 id="orgee618f5"><a href="data/cable_survey.sav">Datos en formato .sav</a></h3>
+<div class="outline-text-3" id="text-orgee618f5">
+<p>
+Este es el formato de SPSS, en el que podrán encontrar los archivos de prueba. De hecho, este es uno de los archivos de prueba, con algunas modificaciones. <code>cable_survey.sav</code> contiene los resultados de una encuesta aplicada a los clientes de una compañía de telecomunicaciones.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb048bdf" class="outline-3">
+<h3 id="orgb048bdf"><a href="data/album_sales.xlsx">Datos en una planilla de cálculo</a></h3>
+<div class="outline-text-3" id="text-orgb048bdf">
+<p>
+Este conjunto de datos está en uno de los formatos más comunes: una planilla de cálculo. Los datos provienen de uno de los ejemplos del libro de Field (2018); y corresponden a las ventas y el tiempo en que una serie de músicos pueden reproducir sus canciones en la radio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb28b77" class="outline-3">
+<h3 id="orgfb28b77"><a href="data/mtcars.txt">Datos en texto plano</a></h3>
+<div class="outline-text-3" id="text-orgfb28b77">
+<p>
+Otro caso común: los datos están en un archivo de texto sin formato. En este caso, el conjunto de datos corresponde a <code>mtcars</code>, publicado por primera vez en Henderson and Velleman (1981), "Building multiple regression models interactively".  <i>Biometrics</i>, 37, 391-411.
+</p>
+
+<p>
+Este conjunto de datos es uno de los ejemplos de <code>R</code>, cuya <a href="data/mtcars_help.txt">documentación</a> explica el contenido de las variables. En cualquier caso, detallo el contenido en la tabla más abajo.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Variable</th>
+<th scope="col" class="org-left">Etiqueta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><code>mpg</code></td>
+<td class="org-left">rendimiento: millas/galón</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>cyl</code></td>
+<td class="org-left">número de cilindros</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>disp</code></td>
+<td class="org-left"><i>displacement</i></td>
+</tr>
+
+<tr>
+<td class="org-left"><code>hp</code></td>
+<td class="org-left">caballos de fuerza</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>drat</code></td>
+<td class="org-left"><i>rear axle ratio</i></td>
+</tr>
+
+<tr>
+<td class="org-left"><code>wt</code></td>
+<td class="org-left">peso (por mil libras)</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>qsec</code></td>
+<td class="org-left">tiempo en recorrer 400 mts</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>vs</code></td>
+<td class="org-left">motor (0 = forma de V; 1 = recto)</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>am</code></td>
+<td class="org-left">transmisión (0 = automática; 1 = manual)</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>gear</code></td>
+<td class="org-left">número de velocidades</td>
+</tr>
+
+<tr>
+<td class="org-left"><code>carb</code></td>
+<td class="org-left">número de carburadores</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Autor: Valentin Vergara</p>
-<p class="date">Created: 2020-06-07 Sun 22:15</p>
+<p class="date">Created: 2020-06-08 Mon 00:52</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
