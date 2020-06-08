@@ -1,16 +1,17 @@
-#+title: week 1
+#+title: Semana 1
 #+author: Valentin Vergara
 #+date: 2020:Jun:04
 
-* This is the content for week1
-What about more code?
+#+OPTIONS: toc:nil num:nil date:nil
+#+LANGUAGE: es
 
-#+BEGIN_SRC C
-printf('Hello World');
-#+END_SRC
+* Presentación
+A modo de presentación del curso (y mia), les mostraré un video con generalidades del software y un documento con conceptos relevantes.
 
-* Let's put a video here
+** Video de presentación
 
-#+begin_export html 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C8NKtu5SZZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#+end_export
+** [[file:docs/week1-1.pdf][Conceptos Preliminares]]
+En este documento presento los conceptos de *matriz de datos* y *modelos estadísticos*. Ambos son útiles, no por su novedad, sino que nos servirán para precisar los conceptos y que empecemos a hablar exactamente el mismo idioma.
+
+* Manejo de información 
+COMING SOON
