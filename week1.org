@@ -1,0 +1,68 @@
+#+title: Semana 1
+#+author: Valentin Vergara
+#+date: 2020:Jun:04
+
+#+OPTIONS: toc:nil num:nil date:nil
+#+LANGUAGE: es
+
+* Presentación
+A modo de presentación del curso (y mia), les mostraré un video con generalidades del software y un documento con conceptos relevantes.
+
+** Video de presentación
+
+** [[file:docs/week1-1.pdf][Conceptos Preliminares]]
+En este documento presento los conceptos de *matriz de datos* y *modelos estadísticos*. Ambos son útiles, no por su novedad, sino que nos servirán para precisar los conceptos y que empecemos a hablar exactamente el mismo idioma.
+
+* Manejo de información 
+En el video a continuación, se puede ver una demostración de cómo se importan datos y se pueden (eventualmente) guardar en el formato de spss. También les muestro algunas formas de obtener información sobre variables de estos datos.
+
+#+begin_center 
+
+#+begin_export html 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_RS3Vh4--uE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+#+end_center
+
+* Datos
+Hay muchas formas en las que usualmente se presentan los datos. Es por esto que escogí tres formatos con los que eventualmente se encontrarán. Idealmente, descárguenlos en alguna carpeta a la que tengan fácil acceso.
+
+** [[file:data/cable_survey.sav][Datos en formato .sav]]
+
+Este es el formato de SPSS, en el que podrán encontrar los archivos de prueba. De hecho, este es uno de los archivos de prueba, con algunas modificaciones. =cable_survey.sav= contiene los resultados de una encuesta aplicada a los clientes de una compañía de telecomunicaciones.
+
+** [[file:data/album_sales.xlsx][Datos en una planilla de cálculo]] 
+
+Este conjunto de datos está en uno de los formatos más comunes: una planilla de cálculo. Los datos provienen de uno de los ejemplos del libro de Field (2018); y corresponden a las ventas y el tiempo en que una serie de músicos pueden reproducir sus canciones en la radio.
+
+** [[file:data/mtcars.txt][Datos en texto plano]]
+
+Otro caso común: los datos están en un archivo de texto sin formato. En este caso, el conjunto de datos corresponde a =mtcars=, publicado por primera vez en Henderson and Velleman (1981), "Building multiple regression models interactively".  /Biometrics/, 37, 391-411.
+
+Este conjunto de datos es uno de los ejemplos de =R=, cuya [[file:data/mtcars_help.txt][documentación]] explica el contenido de las variables. En cualquier caso, detallo el contenido en la tabla más abajo.
+
+|----------+------------------------------------------|
+|----------+------------------------------------------|
+| Variable | Etiqueta                                 |
+|----------+------------------------------------------|
+| =mpg=    | rendimiento: millas/galón                |
+| =cyl=    | número de cilindros                      |
+| =disp=   | /displacement/                           |
+| =hp=     | caballos de fuerza                       |
+| =drat=   | /rear axle ratio/                        |
+| =wt=     | peso (por mil libras)                    |
+| =qsec=   | tiempo en recorrer 400 mts               |
+| =vs=     | motor (0 = forma de V; 1 = recto)        |
+| =am=     | transmisión (0 = automática; 1 = manual) |
+| =gear=   | número de velocidades                    |
+| =carb=   | número de carburadores                   |
+|----------+------------------------------------------|
+|----------+------------------------------------------|
+
+
+
+
+
+
+
+
