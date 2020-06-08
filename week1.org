@@ -14,7 +14,16 @@ A modo de presentación del curso (y mia), les mostraré un video con generalida
 En este documento presento los conceptos de *matriz de datos* y *modelos estadísticos*. Ambos son útiles, no por su novedad, sino que nos servirán para precisar los conceptos y que empecemos a hablar exactamente el mismo idioma.
 
 * Manejo de información 
-COMING SOON
+En el video a continuación, se puede ver una demostración de cómo se importan datos y se pueden (eventualmente) guardar en el formato de spss. También les muestro algunas formas de obtener información sobre variables de estos datos.
+
+#+begin_center 
+
+#+begin_export html 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_RS3Vh4--uE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+#+end_center
+
 * Datos
 Hay muchas formas en las que usualmente se presentan los datos. Es por esto que escogí tres formatos con los que eventualmente se encontrarán. Idealmente, descárguenlos en alguna carpeta a la que tengan fácil acceso.
 
