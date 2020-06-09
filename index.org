@@ -60,7 +60,25 @@ Este es el modelo más usado, dada su flexibilidad: admite variables de cualquie
 - Modelo de regresión con $k$ variables independientes
 - Estimación OLS matricial
 
-* Bibliography
 
+* Bibliografía
+
+Si bien la tabla de contenidos es bastante similar a cualquier curso introductorio de estadística, debido a que es un curso corto, el material que se usará es fundamentalmente aquel creado para esta ocasión. Sin embargo, para profundizar algunos temas, recomiendo tres libros que pueden ayudar.
+
+En primer lugar, una introducción a los temas de cada sesión se puede encontrar en los capítulos correspondientes del texto de Field (2013). Si bien no es la última edición, es un texto que tiene más valor en lo conceptual que en lo riguroso en términos técnicos, por lo que no hay problema en consultar una versión incluso más antigua.
+
+Para un tratamiento más centrado en el software, un buen recurso es consultar (George 2019). Hay una explicación paso a paso de los mismos temas que tratarán en este curso, pero requiere la última versión del software, dado su grado de detalle.
+
+Finalmente, un texto más enfocado en los conceptos estadísticos es el de Denis (2019). Cualquier procedimiento de los que se verán en las distintas sesiones, tiene su fundamento conceptual detallado aquí.
+
+** Referencias
+
+- Denis, Daniel. 2019. /SPSS data analysis for univariate, bivariate, and multivariate statistics/. Hoboken, NJ: Wiley.
+- Field, Andy. 2013. /Discovering statistics using IBM SPSS statistics: and sex and drugs and rock ’n’ roll/. Los Angeles: Sage.
+- George, Darren. 2019. /IBM SPSS statistics 25 step by step : a simple guide and reference/. New York, NY: Routledge.
+
+
+
+-------
 
 

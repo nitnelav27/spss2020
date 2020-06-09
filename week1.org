@@ -9,6 +9,11 @@
 A modo de presentación del curso (y mia), les mostraré un video con generalidades del software y un documento con conceptos relevantes.
 
 ** Video de presentación
+#+begin_center
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-6VBl17qO_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+#+end_center
 
 ** [[file:docs/week1-1.pdf][Conceptos Preliminares]]
 En este documento presento los conceptos de *matriz de datos* y *modelos estadísticos*. Ambos son útiles, no por su novedad, sino que nos servirán para precisar los conceptos y que empecemos a hablar exactamente el mismo idioma.
@@ -65,4 +70,4 @@ Este conjunto de datos es uno de los ejemplos de =R=, cuya [[file:data/mtcars_he
 
 
 
-
+-----------
