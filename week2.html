@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<!-- 2020-06-16 Tue 02:58 -->
+<!-- 2020-06-16 Tue 02:42 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Uso (básico) de SPSS</title>
+<title>Semana 2</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Valentin Vergara Hidd" />
+<meta name="author" content="Valentin Vergara" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -226,185 +226,61 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        displayAlign: "center",
-        displayIndent: "0em",
-
-        "HTML-CSS": { scale: 100,
-                        linebreaks: { automatic: "false" },
-                        webFont: "TeX"
-                       },
-        SVG: {scale: 100,
-              linebreaks: { automatic: "false" },
-              font: "TeX"},
-        NativeMML: {scale: 100},
-        TeX: { equationNumbers: {autoNumber: "AMS"},
-               MultLineWidth: "85%",
-               TagSide: "right",
-               TagIndent: ".8em"
-             }
-});
-</script>
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
-<h1 class="title">Uso (básico) de SPSS</h1>
+<h1 class="title">Semana 2</h1>
 
-<div id="outline-container-orgd5ff97a" class="outline-2">
-<h2 id="orgd5ff97a">¡Bienvenidos al sitio del curso!</h2>
-<div class="outline-text-2" id="text-orgd5ff97a">
+<div id="outline-container-orgdffb988" class="outline-2">
+<h2 id="orgdffb988">Previously&#x2026;</h2>
+<div class="outline-text-2" id="text-orgdffb988">
 <p>
-En este sitio encontrarán todo el material que vamos a utilizar a lo largo de estas semanas. No va a estar todo de inmediato, sino que lo iré actualizando semana a semana, en la medida en que lo vaya escribiendo.
-</p>
-
-<p>
-En principio, la idea es que a partir de uno o dos videos donde hago algunas demostraciones de uso del software o explicación de conceptos estadísticos, ustedes puedan ir practicando. Para esto, los recursos que tendrán a disposición son:
-</p>
-
-<ul class="org-ul">
-<li>El video con lo descrito anteriormente.</li>
-<li>Un documento que explica con más profundidad los <i>conceptos estadisticos</i>. Para la demostración de software lo más adecuado sigue siendo el video.</li>
-<li>Los archivos de datos que use en las demostraciones.</li>
-</ul>
-
-<p>
-Ante cualquier duda o comentario, <a href="mailto:valentinvergara@gmail.com">escríbanme</a> de inmediato, para intentar solucionarlo a tiempo. Especialmente con los conceptos estadísticos, hay muchas cosas que se construyen sobre la base de conceptos más básicos, por lo que es fundamental extinguir las dudas apenas aparezcan. En caso de ser necesario, podemos organizar alguna sesión de videollamada donde les vaya explicando alguna cosa que no haya quedado del todo claro en los videos o documentos.
+A partir de esta semana, voy a incluir un video donde trate de responder a todas las preguntas que reciba durante la semana. Aún no recibo (de la mayoría) un email con la breve reseña biográfica que les pedí la semana pasada. Por favor, tçomense unos minutos para enviarla, así como también cualquier cosa que no haya quedado clara hasta aquí
 </p>
 </div>
 </div>
 
-<div id="outline-container-org103c483" class="outline-2">
-<h2 id="org103c483">Contenidos</h2>
-<div class="outline-text-2" id="text-org103c483">
+<div id="outline-container-org69ea31d" class="outline-2">
+<h2 id="org69ea31d">Bases conceptuales para abordar el Muestreo</h2>
+<div class="outline-text-2" id="text-org69ea31d">
 <p>
-Por un tema estrictamente práctico, voy a dividir los contenidos en semanas. Cada una con una dedicación estimada de 5 horas. Esto no implica que van a haber cinco horas de videos por cada semana. Entre los videos, el estudio del documento y practicar con el software, estimo que deberían usar más o menos esa cantidad de tiempo.
+Antes de tratar el tema de muestreo, es pertinente tratar las bases conceptuales de probabilidad y distribuciones estadísticas. A partir de ellos podremos seguir avanzando en aplicaciones computacionales.
 </p>
 </div>
 
-<div id="outline-container-org7927b34" class="outline-3">
-<h3 id="org7927b34"><a href="week1.html">Semana 1</a>: Presentación y manejo de información</h3>
-<div class="outline-text-3" id="text-org7927b34">
+<div id="outline-container-org69154df" class="outline-3">
+<h3 id="org69154df"><a href="docs/week2-1.pdf">Conceptos básicos de probabilidad</a></h3>
+<div class="outline-text-3" id="text-org69154df">
 <p>
-En la primera parte, les voy a presentar los contenidos y la forma en que vamos a trabajar durante estas semanas. También les voy a presentar el software y la manera en que su interfaz gráfica funciona. En cuanto al manejo de información, lo que vamos a ver en detalle es:
-</p>
-
-<ul class="org-ul">
-<li>Matrices de datos</li>
-<li>Importar y exportar datos entre diferentes formatos</li>
-<li>Manejo de valores perdidos</li>
-<li>Recodificación de datos</li>
-<li>Obtener resúmenes a partir de un conjunto de datos</li>
-<li>Descripción y visualización</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org1ba2554" class="outline-3">
-<h3 id="org1ba2554"><a href="week2.html">Semana 2</a>: Muestreo</h3>
-<div class="outline-text-3" id="text-org1ba2554">
-<p>
-En términos generales, este tema pertenece más a un curso de metodología de investigación que a uno de SPSS. Sin embargo, es un tema útil para presentar el concepto de distribución estadística, que es central para todo lo que sigue. Los temas en detalle:
-</p>
-
-<ul class="org-ul">
-<li>Diseños muestrales</li>
-<li>Cálculo de tamaños muestrales</li>
-<li>Distribuciones estadísticas</li>
-<li>Error Estándar</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orga15f4d9" class="outline-3">
-<h3 id="orga15f4d9">Semana 3: Inferencia con dos variables, parte 1</h3>
-<div class="outline-text-3" id="text-orga15f4d9">
-<p>
-Desde este punto empezamos a usar herramientas estadísticas para <b>tomar decisiones</b>, por lo que se vuelve especialmente importante la rigurosidad en los conceptos y su correcta aplicación. Antes de ver cualquier <i>técnica estadística</i>, hay que tener una base sólida en el procedimiento de la prueba de hipótesis. Los contenidos en detalle:
-</p>
-
-<ul class="org-ul">
-<li>Prueba de hipótesis</li>
-<li>Comparar dos grupos</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org83dc2cb" class="outline-3">
-<h3 id="org83dc2cb">Semana 4: Inferencia con dos variables: parte 2</h3>
-<div class="outline-text-3" id="text-org83dc2cb">
-<p>
-Retomamos la inferencia, ahopra extendiendo el modelo para incluir distintos casos, donde siguen existiendo dos variables: dependiente e independiente o dos variables cuya relación buscamos establecer. Los contenidos:
-</p>
-
-<ul class="org-ul">
-<li>Comparar \(k\) grupos</li>
-<li>Tablas de contingencia</li>
-<li>Correlación</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orgbe288cb" class="outline-3">
-<h3 id="orgbe288cb">Semana 5: Modelo lineal</h3>
-<div class="outline-text-3" id="text-orgbe288cb">
-<p>
-Este es el modelo más usado, dada su flexibilidad: admite variables de cualquier tipo. Es utilizado para inferencia causal, para experimentos, para modelos predictivos, series de tiempo, etc. Dedicaré más tiempo a este modelo considerando que requiere mayor atención a las herramientas matemáticas y computacionales necesarias para su correcta implementación. Los contenidos en detalle:
-</p>
-
-<ul class="org-ul">
-<li>Modelo de regresión lineal</li>
-<li>Estimación OLS</li>
-<li>Modelo de regresión con \(k\) variables independientes</li>
-<li>Estimación OLS matricial</li>
-</ul>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-org1e5b210" class="outline-2">
-<h2 id="org1e5b210">Bibliografía</h2>
-<div class="outline-text-2" id="text-org1e5b210">
-<p>
-Si bien la tabla de contenidos es bastante similar a cualquier curso introductorio de estadística, debido a que es un curso corto, el material que se usará es fundamentalmente aquel creado para esta ocasión. Sin embargo, para profundizar algunos temas, recomiendo tres libros que pueden ayudar.
-</p>
-
-<p>
-En primer lugar, una introducción a los temas de cada sesión se puede encontrar en los capítulos correspondientes del texto de Field (2013). Si bien no es la última edición, es un texto que tiene más valor en lo conceptual que en lo riguroso en términos técnicos, por lo que no hay problema en consultar una versión incluso más antigua.
-</p>
-
-<p>
-Para un tratamiento más centrado en el software, un buen recurso es consultar (George 2019). Hay una explicación paso a paso de los mismos temas que tratarán en este curso, pero requiere la última versión del software, dado su grado de detalle.
-</p>
-
-<p>
-Finalmente, un texto más enfocado en los conceptos estadísticos es el de Denis (2019). Cualquier procedimiento de los que se verán en las distintas sesiones, tiene su fundamento conceptual detallado aquí.
+En este documento se tratan temas que muy probablemente ustedes ya conocen, pero es bueno tenerlos de forma explícita, como consulta. 
 </p>
 </div>
+</div>
 
-<div id="outline-container-org61fde23" class="outline-3">
-<h3 id="org61fde23">Referencias</h3>
-<div class="outline-text-3" id="text-org61fde23">
-<ul class="org-ul">
-<li>Denis, Daniel. 2019. <i>SPSS data analysis for univariate, bivariate, and multivariate statistics</i>. Hoboken, NJ: Wiley.</li>
-<li>Field, Andy. 2013. <i>Discovering statistics using IBM SPSS statistics: and sex and drugs and rock ’n’ roll</i>. Los Angeles: Sage.</li>
-<li>George, Darren. 2019. <i>IBM SPSS statistics 25 step by step : a simple guide and reference</i>. New York, NY: Routledge.</li>
-</ul>
+<div id="outline-container-org23d9e5d" class="outline-3">
+<h3 id="org23d9e5d">Aplicando conceptos de probabilidad</h3>
+<div class="outline-text-3" id="text-org23d9e5d">
+<p>
+En el documento de conceptos básicos hay algunos ejemplos no resueltos, que desarrollo en este video.
+</p>
+</div>
+</div>
+</div>
 
-
+<div id="outline-container-orgfd379d5" class="outline-2">
+<h2 id="orgfd379d5">Aplicación en SPSS</h2>
+<div class="outline-text-2" id="text-orgfd379d5">
+<p>
+Si bien aún no utilizamos SPSS para analizar datos, si conviene revisar las herramientas que tenemos a disposición para crear variables aleatorias, utilizando distribuciones conocidas o incluyendo funciones ajustadas a nuestras necesidades.
+</p>
 
 <hr />
 </div>
 </div>
 </div>
-</div>
 <div id="postamble" class="status">
-<p class="date">Fecha: Junio, 2020</p>
-<p class="author">Autor: Valentin Vergara Hidd</p>
-<p class="date">Created: 2020-06-16 Tue 02:58</p>
+<p class="author">Autor: Valentin Vergara</p>
+<p class="date">Created: 2020-06-16 Tue 02:42</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

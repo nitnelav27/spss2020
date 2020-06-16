@@ -1,0 +1,23 @@
+#+title: Semana 2
+#+author: Valentin Vergara
+#+date: 2020:Jun:16
+
+#+OPTIONS: toc:nil num:nil date:nil
+#+LANGUAGE: es
+
+* Previously...
+A partir de esta semana, voy a incluir un video donde trate de responder a todas las preguntas que reciba durante la semana. Aún no recibo (de la mayoría) un email con la breve reseña biográfica que les pedí la semana pasada. Por favor, tçomense unos minutos para enviarla, así como también cualquier cosa que no haya quedado clara hasta aquí
+
+* Bases conceptuales para abordar el Muestreo
+Antes de tratar el tema de muestreo, es pertinente tratar las bases conceptuales de probabilidad y distribuciones estadísticas. A partir de ellos podremos seguir avanzando en aplicaciones computacionales.
+
+** [[file:docs/week2-1.pdf][Conceptos básicos de probabilidad]]
+En este documento se tratan temas que muy probablemente ustedes ya conocen, pero es bueno tenerlos de forma explícita, como consulta. 
+
+** Aplicando conceptos de probabilidad
+En el documento de conceptos básicos hay algunos ejemplos no resueltos, que desarrollo en este video.
+
+* Aplicación en SPSS
+Si bien aún no utilizamos SPSS para analizar datos, si conviene revisar las herramientas que tenemos a disposición para crear variables aleatorias, utilizando distribuciones conocidas o incluyendo funciones ajustadas a nuestras necesidades.
+
+--------------- 
