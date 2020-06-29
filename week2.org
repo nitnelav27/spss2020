@@ -17,6 +17,12 @@ A partir de esta semana, voy a incluir un video donde trate de responder a todas
 * Bases conceptuales para abordar el Muestreo
 Antes de tratar el tema de muestreo, es pertinente tratar las bases conceptuales de probabilidad y distribuciones estadísticas. A partir de ellos podremos seguir avanzando en aplicaciones computacionales.
 
+** Datos
+No son exactamente datos, pero sí /proxies/ que sirven para superar algunas limitaciones de SPSS. Revisen los videos, porque ahí explico esto con mayor detalle.
+
+- [[file:data/5k.xlsx][5000 casos]]
+- [[file:data/k.xlsx][1000 casos]]
+
 ** [[file:docs/week2-1.pdf][Conceptos básicos de probabilidad]]
 En este documento se tratan temas que muy probablemente ustedes ya conocen, pero es bueno tenerlos de forma explícita, como consulta. 
 
