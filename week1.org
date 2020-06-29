@@ -2,7 +2,7 @@
 #+author: Valentin Vergara
 #+date: 2020:Jun:04
 
-#+OPTIONS: toc:nil num:nil date:nil
+#+OPTIONS: toc:nil num:nil date:nil html-postamble:nil
 #+LANGUAGE: es
 
 * Presentación

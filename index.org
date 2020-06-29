@@ -4,7 +4,7 @@
 
 #+language: es
 
-#+options: toc:nil num:nil
+#+options: toc:nil num:nil html-postamble:nil
 
 * ¡Bienvenidos al sitio del curso!
 En este sitio encontrarán todo el material que vamos a utilizar a lo largo de estas semanas. No va a estar todo de inmediato, sino que lo iré actualizando semana a semana, en la medida en que lo vaya escribiendo.
