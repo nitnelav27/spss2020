@@ -26,16 +26,19 @@ No son exactamente datos, pero sí /proxies/ que sirven para superar algunas lim
 ** [[file:docs/week2-1.pdf][Conceptos básicos de probabilidad]]
 En este documento se tratan temas que muy probablemente ustedes ya conocen, pero es bueno tenerlos de forma explícita, como consulta. Además, incluyo un video con el desarrollo de algunos ejemplos
 
+** Aplicando conceptos de probabilidad
+En el documento de conceptos básicos hay algunos ejemplos no resueltos, que desarrollo en este video.
+
 #+begin_center
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hRBs9Ok32CQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 #+end_center
 
-** Aplicando conceptos de probabilidad
-En el documento de conceptos básicos hay algunos ejemplos no resueltos, que desarrollo en este video.
+* Diferencias entre población y muestra
 
-* Aplicación en SPSS
-Si bien aún no utilizamos SPSS para analizar datos, si conviene revisar las herramientas que tenemos a disposición para crear variables aleatorias, utilizando distribuciones conocidas o incluyendo funciones ajustadas a nuestras necesidades.
+** [[file:docs/week2-2.pdf][Población, muestra y error estándar]]
+En este documento explico conceptos básicos que utilizaremos para entender la lógica detrás del muestreo. Son además fundamentales para desarrollar la prueba de hipótesis.
+
 
 --------------- 
