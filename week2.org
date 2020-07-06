@@ -40,5 +40,14 @@ En el documento de conceptos básicos hay algunos ejemplos no resueltos, que des
 ** [[file:docs/week2-2.pdf][Población, muestra y error estándar]]
 En este documento explico conceptos básicos que utilizaremos para entender la lógica detrás del muestreo. Son además fundamentales para desarrollar la prueba de hipótesis.
 
+** Algunas aplicaciones en SPSS
+En este video les muestro cómo es posible aplicar algunos conceptos del documento anterior. Lamentablemente no se escucha muy bien en algunas partes, pero nunca dura más de un minuto. Sugiero bajar la velocidad al video en esos segmentos.
+
+#+begin_center
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QI_cvOrwzrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+#+end_center
+
 
 --------------- 

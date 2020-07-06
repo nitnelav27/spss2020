@@ -1,0 +1,25 @@
+#+title: Semana 3
+#+author: Valentin Vergara
+
+#+OPTIONS: toc:nil num:nil date:nil html-postamble:nil
+#+LANGUAGE: es
+
+* Previously...
+¿Cómo les fue con la simulación de los puntajes PSU?
+
+* Intervalos de confianza 
+
+* Prueba de Hipótesis
+
+* Diferencias entre dos grupos
+
+
+
+
+
+
+
+
+
+
+--------------- 

@@ -39,7 +39,7 @@ En términos generales, este tema pertenece más a un curso de metodología de i
 - Distribuciones estadísticas
 - Error Estándar
 
-** Semana 3: Inferencia con dos variables, parte 1
+** [[file:week3.html][Semana 3]]: Inferencia con dos variables, parte 1
 Desde este punto empezamos a usar herramientas estadísticas para *tomar decisiones*, por lo que se vuelve especialmente importante la rigurosidad en los conceptos y su correcta aplicación. Antes de ver cualquier /técnica estadística/, hay que tener una base sólida en el procedimiento de la prueba de hipótesis. Los contenidos en detalle:
 
 - Prueba de hipótesis
