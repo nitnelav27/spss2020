@@ -7,10 +7,11 @@
 * Previously...
 ¿Cómo les fue con la simulación de los puntajes PSU?
 
-* Intervalos de confianza 
+*ACTUALIZACIÓN AL 7 DE JULIO*: Esta sección se va a actualizar en la medida que llegue un número importante de preguntas que ameriten crear un video donde las responda. Si no es ese el caso, intentaré responder todas sus preguntas por email.
 
-* Prueba de Hipótesis
-
+* [[file:docs/week3-1.pdf][Prueba de hipótesis]]
+El esqueleto lógico de todo lo que veremos de aquí en adelante se encuentra en los cuatro pasos de la prueba de hipótesis. En este documento explico los cuatro pasos a partir de un ejemplo muy simple. Luego veremos el detalle de los intervalos de confianza y los valores $p$, donde empezamos a hacer uso del error estándar. 
+* Intervalos de confianza y valores $p$ 
 * Diferencias entre dos grupos
 
 
