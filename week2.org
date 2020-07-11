@@ -43,9 +43,11 @@ En este documento explico conceptos básicos que utilizaremos para entender la l
 ** Algunas aplicaciones en SPSS
 En este video les muestro cómo es posible aplicar algunos conceptos del documento anterior. Lamentablemente no se escucha muy bien en algunas partes, pero nunca dura más de un minuto. Sugiero bajar la velocidad al video en esos segmentos.
 
+*ACTUALIZACIÓN*: Dado que el video anterior se escuchaba muy mal, lo grabé de nuevo. Esta versión debería estar libre de problemas. 
+
 #+begin_center
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QI_cvOrwzrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6D4vcmRUSio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 #+end_center
 
