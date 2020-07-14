@@ -11,7 +11,8 @@
 
 * [[file:docs/week3-1.pdf][Prueba de hipótesis]]
 El esqueleto lógico de todo lo que veremos de aquí en adelante se encuentra en los cuatro pasos de la prueba de hipótesis. En este documento explico los cuatro pasos a partir de un ejemplo muy simple. Luego veremos el detalle de los intervalos de confianza y los valores $p$, donde empezamos a hacer uso del error estándar. 
-* Intervalos de confianza y valores $p$ 
+* [[file:docs/week3-2.pdf][Intervalos de confianza y valores $p$]] 
+En este documento explico de forma más extensiva dos herramientas que vamos a usar de aquí en adelante, cada vez que hagamos una prueba de hipótesis: intervalos de confianza y valores $p$. A partir de un ejemplo simple, les muestro cómo esto se puede usar. Sugiero no preocuparse demasiado del tratamiento matemático (tratenlo de forma tan superficial como lo hago yo en el documento), ya que PSS se puede encargar de eso. El objetivo principal es que quede clara la lógica detrás de estas herramientas.
 * Diferencias entre dos grupos
 
 
