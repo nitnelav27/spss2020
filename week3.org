@@ -10,7 +10,16 @@
 *ACTUALIZACIÓN AL 7 DE JULIO*: Esta sección se va a actualizar en la medida que llegue un número importante de preguntas que ameriten crear un video donde las responda. Si no es ese el caso, intentaré responder todas sus preguntas por email.
 
 * [[file:docs/week3-1.pdf][Prueba de hipótesis]]
-El esqueleto lógico de todo lo que veremos de aquí en adelante se encuentra en los cuatro pasos de la prueba de hipótesis. En este documento explico los cuatro pasos a partir de un ejemplo muy simple. Luego veremos el detalle de los intervalos de confianza y los valores $p$, donde empezamos a hacer uso del error estándar. 
+El esqueleto lógico de todo lo que veremos de aquí en adelante se encuentra en los cuatro pasos de la prueba de hipótesis. En este documento explico los cuatro pasos a partir de un ejemplo muy simple. Luego veremos el detalle de los intervalos de confianza y los valores $p$, donde empezamos a hacer uso del error estándar.
+
+El siguiente video muestra un breve ejemplo (el mismo del documento), que se termina de desarrollar en la siguiente sección.
+
+#+begin_center
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7c8H9bUXKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+#+end_center
+ 
 * [[file:docs/week3-2.pdf][Intervalos de confianza y valores $p$]] 
 En este documento explico de forma más extensiva dos herramientas que vamos a usar de aquí en adelante, cada vez que hagamos una prueba de hipótesis: intervalos de confianza y valores $p$. A partir de un ejemplo simple, les muestro cómo esto se puede usar. Sugiero no preocuparse demasiado del tratamiento matemático (tratenlo de forma tan superficial como lo hago yo en el documento), ya que PSS se puede encargar de eso. El objetivo principal es que quede clara la lógica detrás de estas herramientas.
 * Diferencias entre dos grupos
