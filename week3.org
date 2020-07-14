@@ -21,7 +21,14 @@ El siguiente video muestra un breve ejemplo (el mismo del documento), que se ter
 #+end_center
  
 * [[file:docs/week3-2.pdf][Intervalos de confianza y valores $p$]] 
-En este documento explico de forma más extensiva dos herramientas que vamos a usar de aquí en adelante, cada vez que hagamos una prueba de hipótesis: intervalos de confianza y valores $p$. A partir de un ejemplo simple, les muestro cómo esto se puede usar. Sugiero no preocuparse demasiado del tratamiento matemático (tratenlo de forma tan superficial como lo hago yo en el documento), ya que PSS se puede encargar de eso. El objetivo principal es que quede clara la lógica detrás de estas herramientas.
+En este documento explico de forma más extensiva dos herramientas que vamos a usar de aquí en adelante, cada vez que hagamos una prueba de hipótesis: intervalos de confianza y valores $p$. A partir de un ejemplo simple, les muestro cómo esto se puede usar. Sugiero no preocuparse demasiado del tratamiento matemático (tratenlo de forma tan superficial como lo hago yo en el documento), ya que como muestro en el siguiente video, hay calculadoras o tablas que nos pueden ayudar para esto. El objetivo principal es que quede clara la lógica detrás de estas herramientas.
+
+#+begin_center
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18xVc5bxonY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+#+end_center
+
 * Diferencias entre dos grupos
 
 
