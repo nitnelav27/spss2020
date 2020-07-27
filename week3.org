@@ -1,3 +1,4 @@
+
 #+title: Semana 3
 #+author: Valentin Vergara
 
@@ -29,8 +30,8 @@ En este documento explico de forma más extensiva dos herramientas que vamos a u
 #+end_export
 #+end_center
 
-* Diferencias entre dos grupos
-
+* [[file:docs/week3-3.pdf][Comparación entre dos grupos]]
+En este documento se presenta la distribución $t$ y sus usos cuando no se cuenta con toda la información respecto de la población.
 
 
 
