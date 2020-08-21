@@ -33,6 +33,18 @@ En este documento explico de forma más extensiva dos herramientas que vamos a u
 * [[file:docs/week3-3.pdf][Comparación entre dos grupos]]
 En este documento se presenta la distribución $t$ y sus usos cuando no se cuenta con toda la información respecto de la población.
 
+Para seguir los ejemplos del video a continuación, sugiero descargar los siguientes archivos de datos:
+
+- [[https://drive.google.com/file/d/1vh9cxc5048wIuAVfz-6dRNZr1SiO3gLJ/view?usp=sharing][Muestra de la encuesta Casen 2017]]: En este conjunto de datos encontrarán una *muestra* de la encuesta Casen 2017. Es importante aclarar que es una muestra en términos de las columnas, no de las filas. Dicho de otra forma, no son todas las variables que se trabajan en este conjunto de datos, sino que sólo seleccioné algunas variables del módulo de ingresos y todas las variables de los módulos de educación y trabajo.
+
+- [[file:data/beers.csv][Efecto de la cerveza]]: Este conjunto de datos presenta una medición de los errores que comete un grupo de personas al manjear un automóvil. estas mediciones se efectúan antes y después de beber cerveza.
+
+#+begin_center
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8EexwxC7eM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+#+end_center
+
 
 
 
