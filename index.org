@@ -45,7 +45,7 @@ Desde este punto empezamos a usar herramientas estadísticas para *tomar decisio
 - Prueba de hipótesis
 - Comparar dos grupos
 
-** Semana 4: Inferencia con dos variables: parte 2
+** [[file:week4.html][Semana 4]]: Inferencia con dos variables: parte 2
 Retomamos la inferencia, ahopra extendiendo el modelo para incluir distintos casos, donde siguen existiendo dos variables: dependiente e independiente o dos variables cuya relación buscamos establecer. Los contenidos:
 
 - Comparar $k$ grupos
