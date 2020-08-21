@@ -1,0 +1,19 @@
+
+#+title: Semana 4
+#+author: Valentin Vergara
+
+#+OPTIONS: toc:nil num:nil date:nil html-postamble:nil
+#+LANGUAGE: es
+
+* Previously...
+¿Cómo va la exploración de los datos CASEN? Hay muchas comparaciones que se pueden hacer, incluso considerando sólo dos grupos. Les recuerdo que si tienen preguntas, me las pueden enviar y con ellas puedo crear un video u organizamos otra llamada.
+
+* [[file:docs/week4-1.pdf][Comparar $k$ grupos]]
+En este documento podrán encontrar una extensión del modelo visto previamente para comparar dos grupos. Ahora, aumenta la cantidad de grupos que comparamos de forma simultánea. 
+
+** Una demostración en SPSS
+
+* Tablas de contingencia
+
+* Correlación lineal
+
