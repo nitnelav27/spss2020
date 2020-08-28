@@ -12,6 +12,13 @@
 En este documento podrán encontrar una extensión del modelo visto previamente para comparar dos grupos. Ahora, aumenta la cantidad de grupos que comparamos de forma simultánea. 
 
 ** Una demostración en SPSS
+En este video continuo con un ejemplo que nuevamente utiliza los datos CASEN. La pregunta que se responde utilizando una prueba de diferencias de medias es, ¿existen diferencias en los niveles educacionales en las regiones del Biobío, Araucanía y Metropolitana?
+
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezxKzdwil8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
 
 * Tablas de contingencia
 

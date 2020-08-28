@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<!-- 2020-08-21 Fri 01:09 -->
+<!-- 2020-08-28 Fri 01:40 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Semana 4</title>
@@ -161,6 +161,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -181,50 +194,28 @@
   /*]]>*/-->
 </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.cacheClassElem = elem.className;
+         elem.cacheClassTarget = target.className;
+         target.className = "code-highlighted";
+         elem.className   = "code-highlighted";
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(elem.cacheClassElem)
+         elem.className = elem.cacheClassElem;
+       if(elem.cacheClassTarget)
+         target.className = elem.cacheClassTarget;
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -253,34 +244,43 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">Semana 4</h1>
 
-<div id="outline-container-org5418e04" class="outline-2">
-<h2 id="org5418e04">Previously&#x2026;</h2>
-<div class="outline-text-2" id="text-org5418e04">
+<div id="outline-container-org82ffe4b" class="outline-2">
+<h2 id="org82ffe4b">Previously&#x2026;</h2>
+<div class="outline-text-2" id="text-org82ffe4b">
 <p>
 ¿Cómo va la exploración de los datos CASEN? Hay muchas comparaciones que se pueden hacer, incluso considerando sólo dos grupos. Les recuerdo que si tienen preguntas, me las pueden enviar y con ellas puedo crear un video u organizamos otra llamada.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgc7d4d8d" class="outline-2">
-<h2 id="orgc7d4d8d"><a href="docs/week4-1.pdf">Comparar \(k\) grupos</a></h2>
-<div class="outline-text-2" id="text-orgc7d4d8d">
+<div id="outline-container-orgd1b45d7" class="outline-2">
+<h2 id="orgd1b45d7"><a href="docs/week4-1.pdf">Comparar \(k\) grupos</a></h2>
+<div class="outline-text-2" id="text-orgd1b45d7">
 <p>
 En este documento podrán encontrar una extensión del modelo visto previamente para comparar dos grupos. Ahora, aumenta la cantidad de grupos que comparamos de forma simultánea. 
 </p>
 </div>
 
-<div id="outline-container-org05e81de" class="outline-3">
-<h3 id="org05e81de">Una demostración en SPSS</h3>
+<div id="outline-container-org8a0792f" class="outline-3">
+<h3 id="org8a0792f">Una demostración en SPSS</h3>
+<div class="outline-text-3" id="text-org8a0792f">
+<p>
+En este video continuo con un ejemplo que nuevamente utiliza los datos CASEN. La pregunta que se responde utilizando una prueba de diferencias de medias es, ¿existen diferencias en los niveles educacionales en las regiones del Biobío, Araucanía y Metropolitana?
+</p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezxKzdwil8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 
-<div id="outline-container-org790b539" class="outline-2">
-<h2 id="org790b539">Tablas de contingencia</h2>
+
+<div id="outline-container-org8eb7892" class="outline-2">
+<h2 id="org8eb7892">Tablas de contingencia</h2>
 </div>
 
-<div id="outline-container-orgebd00cd" class="outline-2">
-<h2 id="orgebd00cd">Correlación lineal</h2>
+<div id="outline-container-org9165098" class="outline-2">
+<h2 id="org9165098">Correlación lineal</h2>
 </div>
 </div>
 </body>
