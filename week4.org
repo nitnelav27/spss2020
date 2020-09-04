@@ -19,8 +19,13 @@ En este video continuo con un ejemplo que nuevamente utiliza los datos CASEN. La
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ezxKzdwil8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
-
-* Tablas de contingencia
+* [[file:docs/week4-2.pdf][Tablas de contingencia]]
+Otra prueba que encontrarán con frecuencia es el análisis de tablas de contingencia. Además de ser una prueba sencilla y de fácil interpretación (ya que sólo se trabaja con conteos), es importante conocer este análisis porque presenta la distribución de probabilidad $\chi^{2}$.
+** Demostración en SPSS
+En el video a continuación, se presenta un ejemplo de análisis de tablas de contingencia, utilizando los datos de =mtcars=
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K3dOHrXFFuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
 
 * Correlación lineal
 
