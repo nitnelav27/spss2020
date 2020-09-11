@@ -27,5 +27,5 @@ En el video a continuación, se presenta un ejemplo de análisis de tablas de co
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K3dOHrXFFuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 
-* Correlación lineal
-
+* [[file:docs/week4-3.pdf][Correlación lineal]]
+En este documento se continua explorando la idea de una relación entre dos variables, pero esta vez extendiéndolo a variables continuas o discretas. Comenzamos explicando conceptualmente en qué consiste la correlación, para luego detallar los cuatro pasos de la prueba de hipótesis. Este documento es fundamental para entender los contenidos de la próxima semana, cuando empecemos a revisar los modelos lineales.
