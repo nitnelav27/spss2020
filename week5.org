@@ -1,0 +1,15 @@
+
+#+title: Semana 5
+#+author: Valentin Vergara
+
+#+OPTIONS: toc:nil num:nil date:nil html-postamble:nil
+#+LANGUAGE: es
+
+
+* [[file:docs/week5-1.pdf][Modelos lineales]]
+
+En este documento se presentan algunas herramientas para entender un modelo lineal. Particularmente, la idea de una recta y cómo podemos utilizarla para caracterizar una nueba de puntos. También se introduce la idea de los parámetros de una línea recta, $\iota$ y $\beta$.
+
+* Regresión lineal: introducción
+
+* Estimación OLS: suma de cuadrados

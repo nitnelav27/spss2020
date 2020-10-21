@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<!-- 2020-10-21 Wed 01:28 -->
+<!-- 2020-10-21 Wed 01:27 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Uso (básico) de SPSS</title>
+<title>Semana 5</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Valentin Vergara Hidd" />
+<meta name="author" content="Valentin Vergara" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -242,154 +242,24 @@
 </head>
 <body>
 <div id="content">
-<h1 class="title">Uso (básico) de SPSS</h1>
+<h1 class="title">Semana 5</h1>
 
-<div id="outline-container-orgeb2afd0" class="outline-2">
-<h2 id="orgeb2afd0">¡Bienvenidos al sitio del curso!</h2>
-<div class="outline-text-2" id="text-orgeb2afd0">
+
+<div id="outline-container-org88ca26d" class="outline-2">
+<h2 id="org88ca26d"><a href="docs/week5-1.pdf">Modelos lineales</a></h2>
+<div class="outline-text-2" id="text-org88ca26d">
 <p>
-En este sitio encontrarán todo el material que vamos a utilizar a lo largo de estas semanas. No va a estar todo de inmediato, sino que lo iré actualizando semana a semana, en la medida en que lo vaya escribiendo.
-</p>
-
-<p>
-En principio, la idea es que a partir de uno o dos videos donde hago algunas demostraciones de uso del software o explicación de conceptos estadísticos, ustedes puedan ir practicando. Para esto, los recursos que tendrán a disposición son:
-</p>
-
-<ul class="org-ul">
-<li>El video con lo descrito anteriormente.</li>
-<li>Un documento que explica con más profundidad los <i>conceptos estadisticos</i>. Para la demostración de software lo más adecuado sigue siendo el video.</li>
-<li>Los archivos de datos que use en las demostraciones.</li>
-</ul>
-
-<p>
-Ante cualquier duda o comentario, <a href="mailto:valentinvergara@gmail.com">escríbanme</a> de inmediato, para intentar solucionarlo a tiempo. Especialmente con los conceptos estadísticos, hay muchas cosas que se construyen sobre la base de conceptos más básicos, por lo que es fundamental extinguir las dudas apenas aparezcan. En caso de ser necesario, podemos organizar alguna sesión de videollamada donde les vaya explicando alguna cosa que no haya quedado del todo claro en los videos o documentos.
+En este documento se presentan algunas herramientas para entender un modelo lineal. Particularmente, la idea de una recta y cómo podemos utilizarla para caracterizar una nueba de puntos. También se introduce la idea de los parámetros de una línea recta, \(\iota\) y \(\beta\).
 </p>
 </div>
 </div>
 
-<div id="outline-container-org3df260a" class="outline-2">
-<h2 id="org3df260a">Contenidos</h2>
-<div class="outline-text-2" id="text-org3df260a">
-<p>
-Por un tema estrictamente práctico, voy a dividir los contenidos en semanas. Cada una con una dedicación estimada de 5 horas. Esto no implica que van a haber cinco horas de videos por cada semana. Entre los videos, el estudio del documento y practicar con el software, estimo que deberían usar más o menos esa cantidad de tiempo.
-</p>
+<div id="outline-container-org4df8b4b" class="outline-2">
+<h2 id="org4df8b4b">Regresión lineal: introducción</h2>
 </div>
 
-<div id="outline-container-orga5dc633" class="outline-3">
-<h3 id="orga5dc633"><a href="week1.html">Semana 1</a>: Presentación y manejo de información</h3>
-<div class="outline-text-3" id="text-orga5dc633">
-<p>
-En la primera parte, les voy a presentar los contenidos y la forma en que vamos a trabajar durante estas semanas. También les voy a presentar el software y la manera en que su interfaz gráfica funciona. En cuanto al manejo de información, lo que vamos a ver en detalle es:
-</p>
-
-<ul class="org-ul">
-<li>Matrices de datos</li>
-<li>Importar y exportar datos entre diferentes formatos</li>
-<li>Manejo de valores perdidos</li>
-<li>Recodificación de datos</li>
-<li>Obtener resúmenes a partir de un conjunto de datos</li>
-<li>Descripción y visualización</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org40a1e3a" class="outline-3">
-<h3 id="org40a1e3a"><a href="week2.html">Semana 2</a>: Muestreo</h3>
-<div class="outline-text-3" id="text-org40a1e3a">
-<p>
-En términos generales, este tema pertenece más a un curso de metodología de investigación que a uno de SPSS. Sin embargo, es un tema útil para presentar el concepto de distribución estadística, que es central para todo lo que sigue. Los temas en detalle:
-</p>
-
-<ul class="org-ul">
-<li>Diseños muestrales</li>
-<li>Cálculo de tamaños muestrales</li>
-<li>Distribuciones estadísticas</li>
-<li>Error Estándar</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org52f8fcb" class="outline-3">
-<h3 id="org52f8fcb"><a href="week3.html">Semana 3</a>: Inferencia con dos variables, parte 1</h3>
-<div class="outline-text-3" id="text-org52f8fcb">
-<p>
-Desde este punto empezamos a usar herramientas estadísticas para <b>tomar decisiones</b>, por lo que se vuelve especialmente importante la rigurosidad en los conceptos y su correcta aplicación. Antes de ver cualquier <i>técnica estadística</i>, hay que tener una base sólida en el procedimiento de la prueba de hipótesis. Los contenidos en detalle:
-</p>
-
-<ul class="org-ul">
-<li>Prueba de hipótesis</li>
-<li>Comparar dos grupos</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org6a11a2f" class="outline-3">
-<h3 id="org6a11a2f"><a href="week4.html">Semana 4</a>: Inferencia con dos variables: parte 2</h3>
-<div class="outline-text-3" id="text-org6a11a2f">
-<p>
-Retomamos la inferencia, ahopra extendiendo el modelo para incluir distintos casos, donde siguen existiendo dos variables: dependiente e independiente o dos variables cuya relación buscamos establecer. Los contenidos:
-</p>
-
-<ul class="org-ul">
-<li>Comparar \(k\) grupos</li>
-<li>Tablas de contingencia</li>
-<li>Correlación</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org513fe47" class="outline-3">
-<h3 id="org513fe47"><a href="week5.html">Semana 5</a>: Modelo lineal</h3>
-<div class="outline-text-3" id="text-org513fe47">
-<p>
-Este es el modelo más usado, dada su flexibilidad: admite variables de cualquier tipo. Es utilizado para inferencia causal, para experimentos, para modelos predictivos, series de tiempo, etc. Dedicaré más tiempo a este modelo considerando que requiere mayor atención a las herramientas matemáticas y computacionales necesarias para su correcta implementación. Los contenidos en detalle:
-</p>
-
-<ul class="org-ul">
-<li>Modelo de regresión lineal</li>
-<li>Estimación OLS</li>
-<li>Modelo de regresión con \(k\) variables independientes</li>
-<li>Estimación OLS matricial</li>
-</ul>
-</div>
-</div>
-</div>
-
-
-<div id="outline-container-orgac492b3" class="outline-2">
-<h2 id="orgac492b3">Bibliografía</h2>
-<div class="outline-text-2" id="text-orgac492b3">
-<p>
-Si bien la tabla de contenidos es bastante similar a cualquier curso introductorio de estadística, debido a que es un curso corto, el material que se usará es fundamentalmente aquel creado para esta ocasión. Sin embargo, para profundizar algunos temas, recomiendo tres libros que pueden ayudar.
-</p>
-
-<p>
-En primer lugar, una introducción a los temas de cada sesión se puede encontrar en los capítulos correspondientes del texto de Field (2013). Si bien no es la última edición, es un texto que tiene más valor en lo conceptual que en lo riguroso en términos técnicos, por lo que no hay problema en consultar una versión incluso más antigua.
-</p>
-
-<p>
-Para un tratamiento más centrado en el software, un buen recurso es consultar (George 2019). Hay una explicación paso a paso de los mismos temas que tratarán en este curso, pero requiere la última versión del software, dado su grado de detalle.
-</p>
-
-<p>
-Finalmente, un texto más enfocado en los conceptos estadísticos es el de Denis (2019). Cualquier procedimiento de los que se verán en las distintas sesiones, tiene su fundamento conceptual detallado aquí.
-</p>
-</div>
-
-<div id="outline-container-org6010a8c" class="outline-3">
-<h3 id="org6010a8c">Referencias</h3>
-<div class="outline-text-3" id="text-org6010a8c">
-<ul class="org-ul">
-<li>Denis, Daniel. 2019. <i>SPSS data analysis for univariate, bivariate, and multivariate statistics</i>. Hoboken, NJ: Wiley.</li>
-<li>Field, Andy. 2013. <i>Discovering statistics using IBM SPSS statistics: and sex and drugs and rock ’n’ roll</i>. Los Angeles: Sage.</li>
-<li>George, Darren. 2019. <i>IBM SPSS statistics 25 step by step : a simple guide and reference</i>. New York, NY: Routledge.</li>
-</ul>
-
-
-
-<hr />
-</div>
-</div>
+<div id="outline-container-org5a5d54c" class="outline-2">
+<h2 id="org5a5d54c">Estimación OLS: suma de cuadrados</h2>
 </div>
 </div>
 </body>

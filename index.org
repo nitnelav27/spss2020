@@ -52,7 +52,7 @@ Retomamos la inferencia, ahopra extendiendo el modelo para incluir distintos cas
 - Tablas de contingencia
 - Correlación
 
-** Semana 5: Modelo lineal
+** [[file:week5.html][Semana 5]]: Modelo lineal
 Este es el modelo más usado, dada su flexibilidad: admite variables de cualquier tipo. Es utilizado para inferencia causal, para experimentos, para modelos predictivos, series de tiempo, etc. Dedicaré más tiempo a este modelo considerando que requiere mayor atención a las herramientas matemáticas y computacionales necesarias para su correcta implementación. Los contenidos en detalle:
 
 - Modelo de regresión lineal
